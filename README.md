@@ -57,11 +57,6 @@ I'm a full-stack developer focused on solving real-world problems through scalab
     Event-driven system using AWS Lambda, SQS, S3, and DynamoDB.  
     Designed to handle peak loads like Black Friday with high reliability.
   </li>
-
-  <li>
-    <strong>Mini TMS & Tracking System</strong>  
-    Logistics integration with real-time tracking, POD (proof of delivery), and automated workflows.
-  </li>
 </ul>
 
 ---
@@ -79,6 +74,8 @@ I'm a full-stack developer focused on solving real-world problems through scalab
 <h3>📫 How to reach me</h3>
 
 <ul>
+  <li>Email: flemuh@gmail.com</li>
+  <li>Number: +55 (11) 95789-4584</li>
   <li>LinkedIn: https://www.linkedin.com/in/fernandohumel</li>
   <li>GitHub: flemuh</li>
 </ul>
