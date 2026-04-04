@@ -79,7 +79,7 @@ I'm a full-stack developer focused on solving real-world problems through scalab
 <h3>📫 How to reach me</h3>
 
 <ul>
-  <li>LinkedIn: your-linkedin</li>
+  <li>LinkedIn: https://www.linkedin.com/in/fernandohumel</li>
   <li>GitHub: flemuh</li>
 </ul>
 
