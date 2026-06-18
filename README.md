@@ -5,22 +5,86 @@ I'm a Full Stack Developer focused on building reliable, scalable and well-docum
 </p>
 
 <p>
-I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational databases and layered architectures. I have also been expanding my experience with e-commerce solutions, Google OAuth, social login, third-party APIs, payment providers, asynchronous processing, CI/CD pipelines and AI applied to software development.
+I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational databases and layered architectures. I have also been expanding my experience with e-commerce solutions, Google OAuth, social login, third-party APIs, payment providers, asynchronous processing, CI/CD pipelines, Information Security and AI applied to software development.
 </p>
 
 ---
 
-<h3>💻 Main stack</h3>
+<h3>💻 Main stack & tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Pint-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GrumPHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=000" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000" />
+  <img src="https://img.shields.io/badge/Mypy-2A6DB2?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coverage-2EA44F?style=for-the-badge&logo=codecov&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/E2E%20Tests-17202C?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--commerce-FF6F00?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payment%20Providers-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+<h3>🧩 Areas of focus</h3>
+
+<ul>
+  <li>Full Stack Development</li>
+  <li>API design and third-party integrations</li>
+  <li>E-commerce flows and payment integrations</li>
+  <li>Google OAuth and social login</li>
+  <li>CI/CD pipelines and GitHub Actions</li>
+  <li>Code quality, automated tests and coverage</li>
+  <li>Docker-based development environments</li>
+  <li>AI agents and automation applied to software development</li>
+  <li>Information Security and secure delivery practices</li>
+</ul>
 
 ---
 
@@ -64,14 +128,16 @@ I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational da
 
   <li>
     <strong>Full Stack User Registration Platform</strong><br />
-    Application with Google OAuth, Laravel API, Vue 3 + TypeScript frontend, filters, pagination and asynchronous email processing.
+    Application with Google OAuth, Laravel API, Vue 3 + TypeScript frontend, filters, pagination and asynchronous email processing.<br />
+    Stack: Laravel, Vue 3, TypeScript, Pinia, MySQL, Docker and queues.
   </li>
 
   <br />
 
   <li>
     <strong>WCoin / EPIN Store Platform</strong><br />
-    E-commerce-oriented platform architecture with Vue 3, FastAPI BFF, Laravel API, MySQL, Redis, Docker, validation scripts, quality checks and secure delivery planning.
+    E-commerce-oriented platform architecture with Vue 3, FastAPI BFF, Laravel API, MySQL, Redis, Docker, validation scripts, quality checks and secure delivery planning.<br />
+    Stack: Vue 3, FastAPI, Laravel, MySQL, Redis, Docker, Mailpit, Vitest, Playwright, Ruff, Mypy, Pint and PCOV.
   </li>
 </ul>
 
@@ -80,10 +146,11 @@ I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational da
 <h3>🤖 AI and Security</h3>
 
 <ul>
-  <li>More than 10 completed certificates and courses in Artificial Intelligence and Information Security</li>
+  <li>More than 13 completed certificates and courses in Artificial Intelligence and Information Security</li>
   <li>AI applied to software development, documentation and code review</li>
   <li>AI agents and workflow orchestration for productivity</li>
   <li>Security awareness applied to APIs, data exposure and delivery flows</li>
+  <li>Focus on safer development practices and better technical validation</li>
 </ul>
 
 ---
@@ -96,6 +163,7 @@ I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational da
   <li>CI/CD, automated tests and quality pipelines</li>
   <li>Security practices for web applications</li>
   <li>E-commerce integrations and payment flows</li>
+  <li>Technical documentation and MR/PR standards</li>
 </ul>
 
 ---
@@ -103,11 +171,11 @@ I work mainly with PHP, Laravel, Vue.js, TypeScript, APIs, Docker, relational da
 <h3>🌐 Portfolio</h3>
 
 <p>
-Portfolio online: <strong>em breve</strong>
+Portfolio online: <strong>coming soon</strong>
 </p>
 
 <p>
-Sugestão: adicionar aqui o link quando publicar, por exemplo:<br />
+Suggested URL:<br />
 https://portfolio-flemuh.vercel.app
 </p>
 
