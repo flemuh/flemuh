@@ -136,7 +136,6 @@ Portfolio online: <strong>coming soon</strong>
 </p>
 
 <p>
-Suggested URL:<br />
 https:/
 </p>
 
