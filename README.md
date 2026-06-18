@@ -144,6 +144,7 @@ https:/
 <h3>📫 How to reach me</h3>
 
 <ul>
+  <li>Number: +55 11 9 5789-4584</li>
   <li>Email: flemuh@gmail.com</li>
   <li>LinkedIn: https://www.linkedin.com/in/fernandohumel</li>
   <li>GitHub: https://github.com/flemuh</li>
