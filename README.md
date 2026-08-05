@@ -33,5 +33,5 @@ Docker and asynchronous processing.
 
 ## Contact
 
-- LinkedIn: Fernando Humel
+- LinkedIn: [Fernando Humel](https://www.linkedin.com/in/fernandohumel/)
 - Email: flemuh@gmail.com
