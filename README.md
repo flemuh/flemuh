@@ -1,83 +1,89 @@
-# Fernando Humel Procopio
+# Fernando Humel Procópio
 
-Software Engineer with 7+ years of experience building, maintaining and modernizing backend and full-stack applications, APIs and distributed systems.
+**Software Engineer | PHP, Laravel & Python | Backend & Full Stack | AWS**
 
-My background is mainly in PHP/Laravel and web engineering, with experience in cloud integrations, asynchronous processing, legacy modernization and production systems.
+Software Engineer with 7+ years of experience developing, maintaining, and modernizing backend and full-stack applications, REST APIs, and distributed systems.
 
-More recently, I have also been working with AI-generated code and coding-agent evaluation while expanding my background in Data Science, Machine Learning and AI research.
+My core experience is in **PHP, Laravel, and web engineering**, with hands-on experience in Python, Vue.js, TypeScript, AWS, asynchronous processing, legacy modernization, and production systems.
 
-## Core stack
+I have worked on business-critical logistics applications, contributing to system modernization, API integrations, serverless workflows, automated testing, performance improvements, and production reliability.
 
-**Backend:** PHP · Laravel · Python · Node.js  
-**Frontend:** Vue.js · React · TypeScript · JavaScript  
-**Data:** MySQL · PostgreSQL · Oracle SQL/PLSQL · MongoDB  
-**Cloud & Infrastructure:** AWS Lambda · SQS · S3 · DynamoDB · CloudWatch · Docker · Nginx · Redis  
-**Engineering:** REST APIs · GitHub Actions · CI/CD · Automated Testing · Git · Linux
+More recently, I have also worked on **AI-generated code and coding-agent evaluation**, applying software engineering practices to assess correctness, maintainability, testing, and reliability.
 
-## Professional background
+## Core Technologies
 
-- 7+ years in software engineering and full-stack/backend development
-- Several years working with critical and high-volume logistics systems
-- Legacy modernization and integration between new and existing applications
-- Event-driven and serverless solutions using AWS services
-- APIs, asynchronous processing, queues and distributed workflows
-- SQL optimization and Oracle PL/SQL procedures and functions
-- Automated testing, code review, CI/CD and production support
-- Root-cause analysis of production incidents and reliability issues
-- Evaluation of AI-generated code and coding-agent behavior
+**Backend:** PHP · Laravel · Python · Node.js · REST APIs · Microservices · BFF
 
-## Current focus
+**Frontend:** Vue.js · TypeScript · JavaScript · React
 
-I am currently expanding my software engineering background toward **Data Science, Machine Learning and AI Research Engineering**.
+**Databases:** MySQL · PostgreSQL · Oracle SQL/PLSQL · MongoDB · DynamoDB · Redis
 
-My current learning and research path includes:
+**Cloud & Infrastructure:** AWS Lambda · SQS · S3 · CloudWatch · Docker · Nginx · Linux
 
-- Scientific Python, NumPy and data analysis
-- Probability and statistics
-- Machine Learning
-- Deep Learning and PyTorch
-- Model evaluation and experimental methodology
-- LLM and agent evaluation
-- Research reproduction, benchmarks and ablation studies
+**Software Engineering:** Git · GitHub Actions · CI/CD · Automated Testing · Code Review · Debugging · Software Architecture
 
-I am also pursuing a postgraduate specialization in **Data Science and Artificial Intelligence** and using practical experiments to turn course concepts into reproducible studies.
+## Professional Experience
 
-## Selected projects
+My professional background includes:
 
-### Speedlora Research
-
-Research-oriented workspace for studying AI/ML through implementations, experiments, reproductions, benchmarks and technical analysis.
-
-The goal is to move beyond framework-level usage and develop stronger foundations in experimental methodology, model evaluation and research engineering.
-
-### Applied Computer Vision & Heuristic Optimization
-
-Computer vision and decision-support case study combining image processing, state recognition, constrained optimization, probabilistic analysis and heuristic search.
-
-Built with Python, OpenCV and NumPy, with emphasis on experimentation, reliability and analysis rather than the original game context.
+- Developing and maintaining business-critical applications in high-volume logistics environments.
+- Modernizing legacy systems using PHP/Laravel, Vue.js, Python BFFs, APIs, and modular architectures.
+- Building and evolving event-driven and serverless workflows using AWS Lambda, SQS, S3, and DynamoDB.
+- Implementing idempotency controls, automated tests, API contract validation, and production monitoring.
+- Investigating production incidents, optimizing SQL queries, and improving application reliability.
+- Contributing to CI/CD pipelines, code reviews, documentation, and collaboration across development teams.
 
 ### AI Coding Agent Evaluation
 
-Work and experiments related to evaluating AI-generated code and coding agents, including correctness, maintainability, automated verification, failure analysis and agent trajectory review.
+I have also worked independently on evaluating LLM-based coding agents in realistic software engineering tasks.
 
-### Laravel + Vue Applications
+This work includes reviewing code changes, debugging strategies, automated tests, agent trajectories, and technical decisions.
 
-Full-stack applications using Laravel APIs and Vue.js frontends, including authentication, queues, relational databases, Docker and CI/CD workflows.
+Evaluation focuses on correctness, maintainability, compatibility, edge cases, reliability, and adherence to requirements.
 
-## Research direction
+## Selected Projects
 
-My long-term goal is to combine my software engineering experience with deeper knowledge of machine learning and experimental research.
+### [Laravel + Vue User Management Platform](https://github.com/flemuh/laravel-vue-user-platform)
 
-I am especially interested in:
+Full-stack application built with PHP, Laravel, Vue 3, TypeScript, MySQL, and Docker.
 
-- LLM and agent evaluation
-- Reliability and failure analysis
-- Machine Learning systems
-- Deep Learning
-- Model behavior and evaluation
-- Reproducible AI/ML research
+Implements Google OAuth authentication, user management, API integration, server-side pagination, asynchronous email processing, and a layered backend architecture.
+
+**Focus:** Full Stack Engineering · REST APIs · Authentication · Software Architecture
+
+### [Ticket Sales Microservices](https://github.com/flemuh/ticket-sales-microservices)
+
+Distributed ticket-sales application combining PHP and Python services, React, Flask, RabbitMQ, MySQL, and Docker.
+
+Explores transactional stock reservation, service communication, data consistency, asynchronous processing, and separation of responsibilities.
+
+**Focus:** PHP · Python · Microservices · Distributed Systems · Messaging
+
+### [Vision-Based Heuristic Decision Assistant](https://github.com/flemuh/Vision-Based-Heuristic-Decision-Assistant)
+
+Applied research project combining computer vision, heuristic optimization, and probabilistic decision-making.
+
+Built with Python, OpenCV, NumPy, SQLite, and a desktop interface. Explores visual state recognition, constrained search, Monte Carlo simulation, Expectimax planning, and decision validation.
+
+**Focus:** Python · Computer Vision · Optimization · Probabilistic Modeling
+
+## Independent Research — Speedlora
+
+[Speedlora](https://github.com/flemuh/speedlora) is my independent initiative for exploring applied AI, software engineering, experimental systems, and reproducible technical research.
+
+The initiative is currently in its research and prototyping stage. Selected experiments and technical findings may be published as they develop.
+
+## Education & Current Development
+
+**Postgraduate Specialization in Data Science and Artificial Intelligence** — Anhanguera, in progress.
+
+**Technology Degree in Systems Analysis and Development** — Universidade São Francisco.
+
+I am currently strengthening my knowledge in scientific Python, statistics, Machine Learning, model evaluation, and LLM-based systems.
+
+My long-term goal is to combine practical software engineering experience with deeper expertise in Data Science, Machine Learning, and applied AI research.
 
 ## Contact
 
-- LinkedIn: [Fernando Humel](https://www.linkedin.com/in/fernandohumel/)
-- Email: [flemuh@gmail.com](mailto:flemuh@gmail.com)
+- **LinkedIn:** [Fernando Humel](https://www.linkedin.com/in/fernandohumel/)
+- **Email:** [flemuh@gmail.com](mailto:flemuh@gmail.com)
