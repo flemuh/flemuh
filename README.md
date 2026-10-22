@@ -1,10 +1,10 @@
 # Fernando Humel Procópio
 
-**Software Engineer | PHP, Laravel & Python | Backend & Full Stack | AWS**
+**Software Engineer | PHP & Laravel | Backend & Full Stack | Vue.js · AWS**
 
-Software Engineer with 7+ years of experience developing, maintaining, and modernizing backend and full-stack applications, REST APIs, and distributed systems.
+Software Engineer with 8+ years of experience developing, maintaining, and modernizing backend and full-stack applications, REST APIs, and distributed systems.
 
-My core experience is in **PHP, Laravel, and web engineering**, with hands-on experience in Python, Vue.js, TypeScript, AWS, asynchronous processing, legacy modernization, and production systems.
+My core experience is in **PHP 8.2, Laravel 10, and web engineering**, with hands-on experience in Python, Vue.js, TypeScript, AWS, asynchronous processing, legacy modernization, and production systems.
 
 I have worked on business-critical logistics applications, contributing to system modernization, API integrations, serverless workflows, automated testing, performance improvements, and production reliability.
 
@@ -69,9 +69,9 @@ Built with Python, OpenCV, NumPy, SQLite, and a desktop interface. Explores visu
 
 ## Independent Research — Speedlora
 
-[Speedlora](https://github.com/flemuh/speedlora) is my independent initiative for exploring applied AI, software engineering, experimental systems, and reproducible technical research.
+[Speedlora](https://speedlora.com) is my independent initiative for exploring applied AI, software engineering, experimental systems, and reproducible technical research.
 
-The initiative is currently in its research and prototyping stage. Selected experiments and technical findings may be published as they develop.
+The platform is live and self-hosted (Docker, Nginx, Linux VPS), including my career page with experience, projects and résumé: [speedlora.com/career](https://speedlora.com/career).
 
 ## Education & Current Development
 
@@ -86,4 +86,5 @@ My long-term goal is to combine practical software engineering experience with d
 ## Contact
 
 - **LinkedIn:** [Fernando Humel](https://www.linkedin.com/in/fernandohumel/)
+- **Website:** [speedlora.com/career](https://speedlora.com/career)
 - **Email:** [flemuh@gmail.com](mailto:flemuh@gmail.com)
