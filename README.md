@@ -2,89 +2,32 @@
 
 **Software Engineer | PHP & Laravel | Backend & Full Stack | Vue.js · AWS**
 
-Software Engineer with 8+ years of experience developing, maintaining, and modernizing backend and full-stack applications, REST APIs, and distributed systems.
+Software engineer with 8+ years of experience developing and modernizing backend and full-stack applications, REST APIs, integrations, and production systems.
 
-My core experience is in **PHP 8.2, Laravel 10, and web engineering**, with hands-on experience in Python, Vue.js, TypeScript, AWS, asynchronous processing, legacy modernization, and production systems.
-
-I have worked on business-critical logistics applications, contributing to system modernization, API integrations, serverless workflows, automated testing, performance improvements, and production reliability.
-
-More recently, I have also worked on **AI-generated code and coding-agent evaluation**, applying software engineering practices to assess correctness, maintainability, testing, and reliability.
+My main stack is **PHP, Laravel, Vue.js, TypeScript, SQL, Python, and AWS**. I have worked on business-critical logistics systems, legacy modernization, event-driven processing, automated testing, and production reliability.
 
 ## Core Technologies
 
-**Backend:** PHP · Laravel · Python · Node.js · REST APIs · Microservices · BFF
-
-**Frontend:** Vue.js · TypeScript · JavaScript · React
-
-**Databases:** MySQL · PostgreSQL · Oracle SQL/PLSQL · MongoDB · DynamoDB · Redis
-
-**Cloud & Infrastructure:** AWS Lambda · SQS · S3 · CloudWatch · Docker · Nginx · Linux
-
-**Software Engineering:** Git · GitHub Actions · CI/CD · Automated Testing · Code Review · Debugging · Software Architecture
+- **Backend:** PHP, Laravel, Python, Node.js, REST APIs, microservices, BFFs, Composer
+- **Frontend:** Vue.js, TypeScript, JavaScript, React
+- **Data:** MySQL, PostgreSQL, Oracle SQL/PLSQL, Redis, DynamoDB
+- **Cloud & Infrastructure:** AWS Lambda, SQS FIFO, S3, CloudWatch, Docker, Nginx, Linux
+- **Engineering:** Git, GitHub Actions, CI/CD, PHPUnit, automated tests, code reviews, debugging, API contracts
 
 ## Professional Experience
 
-My professional background includes:
+At **Total Express**, I contributed to the modernization and operation of large-scale logistics applications, including:
 
-- Developing and maintaining business-critical applications in high-volume logistics environments.
-- Modernizing legacy systems using PHP/Laravel, Vue.js, Python BFFs, APIs, and modular architectures.
-- Building and evolving event-driven and serverless workflows using AWS Lambda, SQS, S3, and DynamoDB.
-- Implementing idempotency controls, automated tests, API contract validation, and production monitoring.
-- Investigating production incidents, optimizing SQL queries, and improving application reliability.
-- Contributing to CI/CD pipelines, code reviews, documentation, and collaboration across development teams.
+- Incremental migration of customer-registration systems using PHP/Laravel, Vue.js, Python BFFs, feature flags, and rollback strategies.
+- Event-driven collection workflows using AWS Lambda, S3, SQS FIFO, DynamoDB, and idempotency controls.
+- Integration with legacy systems, API contract validation, SQL optimization, automated tests, and production troubleshooting.
+- CI/CD pipelines, code reviews, documentation, and cross-team delivery.
 
-### AI Coding Agent Evaluation
+## Education
 
-I have also worked independently on evaluating LLM-based coding agents in realistic software engineering tasks.
-
-This work includes reviewing code changes, debugging strategies, automated tests, agent trajectories, and technical decisions.
-
-Evaluation focuses on correctness, maintainability, compatibility, edge cases, reliability, and adherence to requirements.
-
-## Selected Projects
-
-### [Laravel + Vue User Management Platform](https://github.com/flemuh/laravel-vue-user-platform)
-
-Full-stack application built with PHP, Laravel, Vue 3, TypeScript, MySQL, and Docker.
-
-Implements Google OAuth authentication, user management, API integration, server-side pagination, asynchronous email processing, and a layered backend architecture.
-
-**Focus:** Full Stack Engineering · REST APIs · Authentication · Software Architecture
-
-### [Ticket Sales Microservices](https://github.com/flemuh/ticket-sales-microservices)
-
-Distributed ticket-sales application combining PHP and Python services, React, Flask, RabbitMQ, MySQL, and Docker.
-
-Explores transactional stock reservation, service communication, data consistency, asynchronous processing, and separation of responsibilities.
-
-**Focus:** PHP · Python · Microservices · Distributed Systems · Messaging
-
-### [Vision-Based Heuristic Decision Assistant](https://github.com/flemuh/Vision-Based-Heuristic-Decision-Assistant)
-
-Applied research project combining computer vision, heuristic optimization, and probabilistic decision-making.
-
-Built with Python, OpenCV, NumPy, SQLite, and a desktop interface. Explores visual state recognition, constrained search, Monte Carlo simulation, Expectimax planning, and decision validation.
-
-**Focus:** Python · Computer Vision · Optimization · Probabilistic Modeling
-
-## Independent Research — Speedlora
-
-[Speedlora](https://speedlora.com) is my independent initiative for exploring applied AI, software engineering, experimental systems, and reproducible technical research.
-
-The platform is live and self-hosted (Docker, Nginx, Linux VPS), including my career page with experience, projects and résumé: [speedlora.com/career](https://speedlora.com/career).
-
-## Education & Current Development
-
-**Postgraduate Specialization in Data Science and Artificial Intelligence** — Anhanguera, in progress.
-
-**Technology Degree in Systems Analysis and Development** — Universidade São Francisco.
-
-I am currently strengthening my knowledge in scientific Python, statistics, Machine Learning, model evaluation, and LLM-based systems.
-
-My long-term goal is to combine practical software engineering experience with deeper expertise in Data Science, Machine Learning, and applied AI research.
+- **Postgraduate specialization in Data Science and Artificial Intelligence** — Anhanguera, in progress.
+- **Technology degree in Systems Analysis and Development** — Universidade São Francisco.
 
 ## Contact
 
-- **LinkedIn:** [Fernando Humel](https://www.linkedin.com/in/fernandohumel/)
-- **Website:** [speedlora.com/career](https://speedlora.com/career)
-- **Email:** [flemuh@gmail.com](mailto:flemuh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fernandohumel/)
