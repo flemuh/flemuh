@@ -22,10 +22,6 @@ At **Total Express**, I contributed to the modernization and operation of large-
 - Integration with legacy systems, SQL optimization, automated tests and production troubleshooting.
 - Existing CI pipelines (lint, Laravel Pint, PHPUnit and pytest), code reviews, documentation and cross-team delivery.
 
-## Featured Projects
-
-- **[Radar Public Sector](https://github.com/flemuh/radar-public-sector):** Python and FastAPI; monitors Brazilian public-sector IT job openings from official sources.
-
 ## Education
 
 - **Postgraduate specialization in Data Science and Artificial Intelligence** — Anhanguera Educacional, in progress.
