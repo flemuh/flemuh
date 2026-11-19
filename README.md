@@ -24,7 +24,6 @@ At **Total Express**, I contributed to the modernization and operation of large-
 
 ## Featured Projects
 
-- **[Fintech Wallet](https://github.com/flemuh/fintech-wallet-pleno):** Laravel 13, Vue 3/TypeScript and PostgreSQL; deposits and withdrawals with idempotency keys, transactional locks and GitHub Actions CI/CD with manual approval.
 - **[Radar Public Sector](https://github.com/flemuh/radar-public-sector):** Python and FastAPI; monitors Brazilian public-sector IT job openings from official sources.
 
 ## Education
